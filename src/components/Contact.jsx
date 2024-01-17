@@ -32,7 +32,7 @@ const Contact = () => {
           name="email"
         />
         <textarea
-          className="bg-[#90ee90] p-2"
+          className="bg-[#f0e68c] p-2"
           name="message"
           rows="10"
           placeholder="Message"
