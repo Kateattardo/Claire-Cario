@@ -1,16 +1,10 @@
 import React from "react";
-// import homeImage from "../assets/homeImage.jpg";
 
 const Home = () => {
   return (
     <div name="home" className="w-full h-screen bg-[#faebd7]">
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
-        {/* <img
-          src={homeImage}
-          alt="Home"
-          className="w-full h-auto object-cover"
-        /> */}
         <h1 className="text-4xl sm:text-7xl font-bold text-[#556b2f]">
           Claire F. Cairo
         </h1>
