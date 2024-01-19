@@ -13,20 +13,20 @@ const Services = () => {
 
         {/* Services Section */}
         <div className="max-w-4xl mx-auto px-4 w-full grid md:grid-cols-2 gap-8">
+          {/* In Home Rates Column */}
           <div className="text-center sm:text-left">
-            {/* Add the Home rate information here */}
             <h1>In Home Initial Consultation (1 hour)</h1>
-            <h1>Follow-up Sessions (1hour)</h1>
+            <h1>Follow-up Sessions (1 hour)</h1>
             <h1>3 Package Sessions</h1>
             <h1>5 Package Sessions</h1>
-            {/* Virtual Rates Column */}
-            <div className="text-center sm:text-right">
-              {/* Add the rates information here */}
-              <h1>Virtual Initial Consultation (1 hour)</h1>
-              <h1>Follow-up Sessions (1 hour)</h1>
-              <h1>3 Package Sessions</h1>
-              <h1>5 Package Sessions</h1>
-            </div>
+          </div>
+
+          {/* Virtual Rates Column */}
+          <div className="text-center sm:text-right">
+            <h1>Virtual Initial Consultation (1 hour)</h1>
+            <h1>Follow-up Sessions (1 hour)</h1>
+            <h1>3 Package Sessions</h1>
+            <h1>5 Package Sessions</h1>
           </div>
         </div>
       </div>
