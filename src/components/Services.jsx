@@ -11,24 +11,22 @@ const Services = () => {
           </p>
         </div>
 
-        {/* Rates Section */}
+        {/* Services Section */}
         <div className="max-w-4xl mx-auto px-4 w-full grid md:grid-cols-2 gap-8">
-          {/* New York Rates Column */}
           <div className="text-center sm:text-left">
-            <h3 className="text-xl font-bold mb-4">New York Rates</h3>
-            {/* Add the rates information here */}
-            <p>Rate 1: $XXX</p>
-            <p>Rate 2: $XXX</p>
-            {/* ...more rates */}
-          </div>
-
-          {/* Delaware Rates Column */}
-          <div className="text-center sm:text-right">
-            <h3 className="text-xl font-bold mb-4">Delaware Rates</h3>
-            {/* Add the rates information here */}
-            <p>Rate 1: $XXX</p>
-            <p>Rate 2: $XXX</p>
-            {/* ...more rates */}
+            {/* Add the Home rate information here */}
+            <h1>In Home Initial Consultation (1 hour)</h1>
+            <h1>Follow-up Sessions (1hour)</h1>
+            <h1>3 Package Sessions</h1>
+            <h1>5 Package Sessions</h1>
+            {/* Virtual Rates Column */}
+            <div className="text-center sm:text-right">
+              {/* Add the rates information here */}
+              <h1>Virtual Initial Consultation (1 hour)</h1>
+              <h1>Follow-up Sessions (1 hour)</h1>
+              <h1>3 Package Sessions</h1>
+              <h1>5 Package Sessions</h1>
+            </div>
           </div>
         </div>
       </div>
