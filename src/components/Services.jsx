@@ -15,6 +15,13 @@ const Services = () => {
           {/* In Home Rates Column */}
           <div className="text-center sm:text-left">
             <h1>In Home Initial Consultation (1 hour)</h1>
+            <h2>
+              Help figure out and address behavior concerns immediately in the
+              home and out in public. Assess and tweak your current managment
+              tools and protocols. Educate you and your dog on how to use
+              reinforcement-based methods in an impactful way. Create a
+              customized training plan to address your goals.
+            </h2>
             <h1>Follow-up Sessions (1 hour)</h1>
             <h1>3 Package Sessions</h1>
             <h1>5 Package Sessions</h1>
@@ -23,9 +30,18 @@ const Services = () => {
           {/* Virtual Rates Column */}
           <div className="text-center sm:text-right">
             <h1>Virtual Initial Consultation (1 hour)</h1>
+            <h2>
+              Virtual training can be scheduled during the day or evening. Great
+              supplement to private lessons ect ect.
+            </h2>
             <h1>Follow-up Sessions (1 hour)</h1>
             <h1>3 Package Sessions</h1>
             <h1>5 Package Sessions</h1>
+          </div>
+          <div className="max-w-4xl mx-auto px-4 w-full text-center pb-8">
+            <p className="text-2xl sm:text-3xl font-bold">
+              A follow up report is included with every session.
+            </p>
           </div>
         </div>
       </div>
