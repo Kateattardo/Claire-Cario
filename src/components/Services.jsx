@@ -42,12 +42,12 @@ const Services = () => {
             <h1 className="text-2xl pb-4">3 Package Sessions</h1>
             <h1 className="text-2xl">5 Package Sessions</h1>
           </div>
-
-          <div className="max-w-4xl mx-auto px-4 w-full text-center pb-8">
-            <p className="text-2xl sm:text-3xl font-bold inline border-b-4 border-white">
-              A follow up report is included with every session
-            </p>
-          </div>
+        </div>
+        {/* Centered H1 Tag at the Bottom */}
+        <div className="w-full text-center pt-16 pb-8">
+          <h1 className="text-2xl  sm:text-3xl font-bold inline border-b-4  border-white">
+            A follow up report is included with every session
+          </h1>
         </div>
       </div>
     </div>
