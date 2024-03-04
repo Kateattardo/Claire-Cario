@@ -16,7 +16,7 @@ const Home = () => {
               Claire Cario
             </h2>
             <h2 className="text-4xl sm:text-3xl font-bold text-white">
-              MA, CPDT-KA, FFCT
+              MA. CPDT-KA. FFCT
             </h2>
           </div>
           {/* Circular Image */}

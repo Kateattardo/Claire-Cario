@@ -51,7 +51,7 @@ const Services = () => {
           </div>
 
           {/* Virtual Rates Column */}
-          <div className="text-center sm:text-right">
+          <div className="text-center sm:text-left">
             <h1 className="text-2xl pb-4">
               Virtual Initial Consultation (1 hour)
             </h1>
@@ -60,10 +60,10 @@ const Services = () => {
                 Ideal for dogs who have displayed fear or aggression towards new
                 people in the home
               </li>
-              <lil>
+              <li>
                 Ideal for pet parents who are adding or expecting new family
                 memebers or are planning a move to a new home
-              </lil>
+              </li>
               <li>
                 All skills will be deomonstrated virtually with the consultant's
                 own dog
@@ -76,10 +76,10 @@ const Services = () => {
                 Provide an educational foundation of what is motivating your
                 dog's behavior and how best to modify their behavior
               </li>
-              <lil>
+              <li>
                 Prioritize a managment plan to prevent your dog from rehearsing
                 the behavior further
-              </lil>
+              </li>
               <li>
                 Build a training plan together for your family to start working
                 on it immediately
