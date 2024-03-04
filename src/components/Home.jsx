@@ -9,10 +9,13 @@ const Home = () => {
         <div className="flex items-center justify-center sm:justify-start">
           {/* Headings */}
           <div>
-            <h1 className="text-4xl sm:text-7xl font-bold text-black">
-              Claire F. Cario
+            <h1 className="text-4xl sm:text-7xl pb-10 font-bold text-black">
+              Barnyard Behavior
             </h1>
-            <h2 className="text-4xl sm:text-4xl font-bold text-white">
+            <h2 className="text-4xl sm:text-5xl pb-5 font-bold text-white">
+              Claire Cario
+            </h2>
+            <h2 className="text-4xl sm:text-3xl font-bold text-white">
               MA, CPDT-KA, FFCT
             </h2>
           </div>
