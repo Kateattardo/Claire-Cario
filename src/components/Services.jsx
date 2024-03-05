@@ -15,14 +15,14 @@ const Services = () => {
           {/* In Home Rates Column */}
           <div className="text-center sm:text-left">
             <h1 className="text-2xl pb-4">
-              In Home Initial Consultation (1 hour)
+              In Home Initial Consultation (1.5 hours)
             </h1>
             <ul className="list-disc text 1 pb-4 pl-5">
-              <li>
+              <li className="pb-4">
                 Discussion of your dog's history, behavior concerns and previous
                 training
               </li>
-              <li>
+              <li className="pb-4">
                 Provide an educational foundation of what is moptivating your
                 dog's behavior and how best to modify their behavior
               </li>
@@ -53,7 +53,7 @@ const Services = () => {
           {/* Virtual Rates Column */}
           <div className="text-center sm:text-left">
             <h1 className="text-2xl pb-4">
-              Virtual Initial Consultation (1 hour)
+              Virtual Initial Consultation (1.5 hours)
             </h1>
             <ul className="list-disc text 1 pb-4 pl-5">
               <li>
