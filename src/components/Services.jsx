@@ -2,7 +2,7 @@ import React from "react";
 
 const Services = () => {
   return (
-    <div name="services" className="w-full h-auto bg-[#0000ff] text-[#faebd7]">
+    <div name="services" className="w-full h-auto bg-[#4682B4] text-[#faebd7]">
       <div className="flex flex-col justify-center items-center w-full">
         <div className="max-w-4xl mx-auto px-4 w-full text-center pb-8">
           <p className="text-2xl sm:text-3xl font-bold inline border-b-4 border-white">
@@ -26,11 +26,11 @@ const Services = () => {
                 Provide an educational foundation of what is moptivating your
                 dog's behavior and how best to modify their behavior
               </li>
-              <li>
+              <li className="pb-4">
                 Prioritize a managment plan to prevent your dog from rehearsing
                 the behavior further
               </li>
-              <li>
+              <li className="pb-4">
                 Build a training plan togethr for your family t ostart working
                 on it immediately
               </li>
@@ -46,8 +46,8 @@ const Services = () => {
                 the consultation
               </li>
             </ul>
-            <h1 className="text-2xl pb-4">3 Package Sessions</h1>
-            <h1 className="text-2xl">5 Package Sessions</h1>
+            {/* <h1 className="text-2xl pb-4">3 Package Sessions</h1>
+            <h1 className="text-2xl">5 Package Sessions</h1> */}
           </div>
 
           {/* Virtual Rates Column */}
@@ -60,31 +60,31 @@ const Services = () => {
                 Ideal for dogs who have displayed fear or aggression towards new
                 people in the home
               </li>
-              <li>
+              <li className="pb-4">
                 Ideal for pet parents who are adding or expecting new family
                 memebers or are planning a move to a new home
               </li>
-              <li>
+              <li className="pb-4">
                 All skills will be deomonstrated virtually with the consultant's
                 own dog
               </li>
-              <li>
+              <li className="pb-4">
                 Discussion of your dog's history, behavior concerns and previous
                 tranining
               </li>
-              <li>
+              <li className="pb-4">
                 Provide an educational foundation of what is motivating your
                 dog's behavior and how best to modify their behavior
               </li>
-              <li>
+              <li className="pb-4">
                 Prioritize a managment plan to prevent your dog from rehearsing
                 the behavior further
               </li>
-              <li>
+              <li className="pb-4">
                 Build a training plan together for your family to start working
                 on it immediately
               </li>
-              <li>
+              <li className="pb-4">
                 Introduce essential action items for your family to work on with
                 your dog
               </li>
@@ -96,9 +96,14 @@ const Services = () => {
                 the consultation{" "}
               </li>
             </ul>
-            <h1 className="text-2xl pb-4">3 Package Sessions</h1>
-            <h1 className="text-2xl">5 Package Sessions</h1>
+            {/* <h1 className="text-2xl pb-4">3 Package Sessions</h1>
+            <h1 className="text-2xl">5 Package Sessions</h1> */}
           </div>
+        </div>
+        <div className="w-full text-center pt-16 pb-8">
+          <h1 className="text-2xl  sm:text-5xl font-bold ">
+            3 and 5 session packages available
+          </h1>
         </div>
         {/* Centered H1 Tag at the Bottom */}
         <div className="w-full text-center pt-16 pb-8">

@@ -3,7 +3,7 @@ import Otis from "../assets/Otis.jpg";
 
 const Home = () => {
   return (
-    <div name="home" className="w-full h-screen bg-[#7297dd]">
+    <div name="home" className="w-full h-screen bg-[#4682B4]">
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <div className="flex items-center justify-center sm:justify-start">

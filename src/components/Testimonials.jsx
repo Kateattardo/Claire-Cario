@@ -21,7 +21,7 @@ const Testimonials = () => {
   return (
     <div
       name="testimonials"
-      className="w-full h-auto bg-[#faebd7] text-[#0000ff]"
+      className="w-full h-auto bg-[#faebd7] text-[#4682B4]"
     >
       <div className="flex flex-col justify-center items-center w-full">
         {/* <div className="max-w-4xl mx-auto px-4 w-full grid sm:grid-cols-2 gap-8"> */}
