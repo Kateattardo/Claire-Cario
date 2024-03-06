@@ -46,8 +46,6 @@ const Services = () => {
                 the consultation
               </li>
             </ul>
-            {/* <h1 className="text-2xl pb-4">3 Package Sessions</h1>
-            <h1 className="text-2xl">5 Package Sessions</h1> */}
           </div>
 
           {/* Virtual Rates Column */}
@@ -90,28 +88,22 @@ const Services = () => {
               </li>
             </ul>
             <h1 className="text-2xl pb-4">Follow-up Sessions (1 hour)</h1>
-            <ul className="list-disc text 1 pb-4 pl-5">
+            <ul className="list-disc text 1 pb-20 pl-5">
               <li>
                 Follow-Up Sessions will build on the training plan discussed in
                 the consultation{" "}
               </li>
             </ul>
-            {/* <h1 className="text-2xl pb-4">3 Package Sessions</h1>
-            <h1 className="text-2xl">5 Package Sessions</h1> */}
           </div>
         </div>
-        <div className="w-full text-center pt-16 pb-8">
-          <h1 className="text-2xl  sm:text-5xl font-bold ">
-            3 and 5 session packages available
-          </h1>
-        </div>
+
         {/* Centered H1 Tag at the Bottom */}
-        <div className="w-full text-center pt-16 pb-8">
+        {/* <div className="w-full text-center pt-16 pb-8">
           <h1 className="text-2xl  sm:text-3xl font-bold inline border-b-4  border-white">
             Barnyard Behavior offers discounted follow-up packages for their
             clients. These will be discussed following the inital consultaion.
           </h1>
-        </div>
+        </div> */}
       </div>
     </div>
   );
