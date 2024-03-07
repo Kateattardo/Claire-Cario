@@ -35,19 +35,23 @@ const Testimonials = () => {
           {/* Carousel Component */}
           <Slider {...settings}>
             <div>
-              <img src={Newman} alt="Testimonial 1" />
+              <img
+                src={Newman}
+                alt="Testimonial 1"
+                className="carousel-image"
+              />
             </div>
             <div>
-              <img src={Test1} alt="Testimonial 1" />
+              <img src={Test1} alt="Testimonial 2" className="carousel-image" />
             </div>
             <div>
-              <img src={Romy} alt="Testimonial 2" />
+              <img src={Romy} alt="Testimonial 3" className="carousel-image" />
             </div>
             <div>
-              <img src={Test2} alt="Testimonial 1" />
+              <img src={Test2} alt="Testimonial 4" className="carousel-image" />
             </div>
             <div>
-              <img src={Ziggy} alt="Testimonial 3" />
+              <img src={Ziggy} alt="Testimonial 5" className="carousel-image" />
             </div>
           </Slider>
         </div>

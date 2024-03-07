@@ -23,15 +23,15 @@ const Services = () => {
                 training
               </li>
               <li className="pb-4">
-                Provide an educational foundation of what is moptivating your
+                Provide an educational foundation of what is motivating your
                 dog's behavior and how best to modify their behavior
               </li>
               <li className="pb-4">
-                Prioritize a managment plan to prevent your dog from rehearsing
+                Prioritize a management plan to prevent your dog from rehearsing
                 the behavior further
               </li>
               <li className="pb-4">
-                Build a training plan togethr for your family t ostart working
+                Build a training plan together for your family t ostart working
                 on it immediately
               </li>
               <li>
@@ -60,15 +60,15 @@ const Services = () => {
               </li>
               <li className="pb-4">
                 Ideal for pet parents who are adding or expecting new family
-                memebers or are planning a move to a new home
+                members or are planning a move to a new home
               </li>
               <li className="pb-4">
-                All skills will be deomonstrated virtually with the consultant's
+                All skills will be demonstrated virtually with the consultant's
                 own dog
               </li>
               <li className="pb-4">
                 Discussion of your dog's history, behavior concerns and previous
-                tranining
+                training
               </li>
               <li className="pb-4">
                 Provide an educational foundation of what is motivating your

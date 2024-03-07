@@ -25,17 +25,17 @@ const About = () => {
             {/* Text content */}
             <p>
               Claire F. Cario is a Delaware native who moved to NYC in 1996. She
-              has been working within the animal welfare and veterinary medicine
-              fields since 2001. She received her MA in the Advanced Psychology
-              of Animal Behavior and Conservation in 2008. The most rewarding
-              aspect of her work is strengthening the human-animal bond and
-              seeing her clients achieve a deeper understanding of their dog’s
-              communication, motivations and behaviors. Claire started her own
-              business in 2009 and since then, has supervised, managed, and
-              trained animal behavior staff across all sectors of the animal
-              behavior world, developed curriculum for training programs for
-              training schools, municipal shelters, and therapy dog programs,
-              given webinars on canine behavior topics, built behavior
+              has been working in the fields of animal welfare and veterinary
+              medicine since 2001. She received her MA in the Advanced
+              Psychology of Animal Behavior and Conservation in 2008. The most
+              rewarding aspect of her work is strengthening the human-animal
+              bond and seeing her clients achieve a deeper understanding of
+              their dogs communication, motivations and behaviors. Claire
+              started her own business in 2009 and since then, has supervised,
+              managed, and trained animal behavior staff across all sectors of
+              the animal behavior world, developed curriculum for training
+              programs for training schools, municipal shelters, and therapy dog
+              programs, given webinars on canine behavior topics, built behavior
               assessment systems, and developed individualized behavior training
               plans for dogs displaying a wide variety of behavior concerns. She
               is certified through the Certification Council for Professional
