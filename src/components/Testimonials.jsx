@@ -7,6 +7,7 @@ import Test1 from "../assets/test1.jpg";
 import Romy from "../assets/IMG_Romy.jpg";
 import Test2 from "../assets/test2.jpg";
 import Ziggy from "../assets/IMG_Ziggy.jpg";
+import Test3 from "../assets/test3.jpg";
 
 const Testimonials = () => {
   const settings = {
@@ -52,6 +53,9 @@ const Testimonials = () => {
             </div>
             <div>
               <img src={Ziggy} alt="Testimonial 5" className="carousel-image" />
+            </div>
+            <div>
+              <img src={Test3} alt="Testimonial 6" className="carousel-image" />
             </div>
           </Slider>
         </div>
