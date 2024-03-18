@@ -16,7 +16,8 @@ const Contact = () => {
             Contact
           </p>
           <p className="text-black py-4">
-            Submit the form below to get info about training.
+            Email claire@barnyardbehavior.com or Submit the form below to get
+            info about training.
           </p>
         </div>
 

@@ -7,7 +7,7 @@ import Test1 from "../assets/test1.jpg";
 import Romy from "../assets/IMG_Romy.jpg";
 import Test2 from "../assets/test2.jpg";
 import Ziggy from "../assets/IMG_Ziggy.jpg";
-import Test3 from "../assets/test3.jpg";
+import Test3 from "../assets/test3. jpg.jpg";
 
 const Testimonials = () => {
   const settings = {
