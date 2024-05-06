@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "build",
+    "public": "build/barnyardbehavior.web.app",
     "ignore": [
       "firebase.json",
       "**/.*",
